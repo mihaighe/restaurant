@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react_native_restaurant",
-    "slug": "react_native_restaurant",
+    "name": "restaurant",
+    "slug": "restaurant",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
